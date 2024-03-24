@@ -7,7 +7,7 @@
 
 I am a DevOps & Cloud engineer and video editor. I love programming, writing, video editing and fliming.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a DevOps & Cloud engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 <div align="center"> <img src="https://github.com/Dipchand20/Dipchand20/blob/main/Untitled-2.png"> </div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
