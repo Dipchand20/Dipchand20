@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipchand</h1>
+<div align="center"> <img src="https://github.com/Dipchand20/Dipchand20/blob/main/Untitled-2.png"> </div>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
