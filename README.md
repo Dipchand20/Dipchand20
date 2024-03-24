@@ -1,5 +1,5 @@
 ### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Dipchand Yadav</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
-### Glad to see you here!
+### Glad to see you here! <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipchand20&label=Profile%20views&color=0e75b6&style=flat" alt="dipchand20" /> </p>
 
 I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
