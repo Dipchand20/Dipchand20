@@ -3,8 +3,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dipchand20)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dipchand19)
 
-
-
 ### &nbsp;  <p align="left">Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=dipchand20&label=Profile%20views&color=0e75b6&style=flat" alt="dipchand20" /> </p>
 
 I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
