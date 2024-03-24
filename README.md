@@ -5,7 +5,7 @@
 
 ### &nbsp;  <p align="left">Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=dipchand20&label=Profile%20views&color=0e75b6&style=flat" alt="dipchand20" /> </p>
 
-I am a DevOps & Cloud engineer and video editor. I love programming, writing, video editing and fliming.
+I am a DevOps & Cloud engineer and video editor. I love programming, writing, video editing and filming.
 
 As a DevOps & Cloud engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 <div align="center"> <img src="https://github.com/Dipchand20/Dipchand20/blob/main/Untitled-2.png"> </div>
