@@ -11,15 +11,14 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <div align="center"> <img src="https://github.com/Dipchand20/Dipchand20/blob/main/Untitled-2.png"> </div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipchand20&label=Profile%20views&color=0e75b6&style=flat" alt="dipchand20" /> </p>
 
-- 🌱 I’m currently learning **DevOps & Cloud Engineer**
+**Talking about Personal Stuffs:**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dipchand20](https://github.com/Dipchand20)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning **DevOps & Cloud Engineer**;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp;  All of my projects are available at [https://github.com/Dipchand20](https://github.com/Dipchand20);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **Devops tools (Ansible, Jenkins, Docker, Kubernetes, AWS)**;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me **dipchandyadav20@gmail.com**;
 
-- 💬 Ask me about **Devops tools (Ansible, Jenkins, Docker, Kubernetes, AWS)**
-
-- 📫 How to reach me **dipchandyadav20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
